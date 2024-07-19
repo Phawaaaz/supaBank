@@ -103,15 +103,15 @@ Your savings are safe with supaBank. We use state-of-the-art encryption and secu
 **Testimonials:**
 
 ```
-"SupaBank has completely transformed my banking experience. The ease of transfers and the secure savings options give me confidence and peace of mind." - Alice Johnson
+"SupaBank has completely transformed my banking experience. The ease of transfers and the secure savings options give me confidence and peace of mind." - Abdullahi Alabi
 
-"I appreciate the 24/7 support SupaBank provides. Anytime I have a question or an issue, their team is always ready to assist me." - Michael Smith
+"I appreciate the 24/7 support SupaBank provides. Anytime I have a question or an issue, their team is always ready to assist me." - Jubril Egbebi
 
-"The AI-powered insights from SupaBank have helped me manage my finances better than ever. I love how personalized and helpful the advice is." - Sarah Williams
+"The AI-powered insights from SupaBank have helped me manage my finances better than ever. I love how personalized and helpful the advice is." - Abdul Misbaudeen
 
-"SupaBank's innovative technology and user-friendly interface make managing my business finances a breeze. I highly recommend their services to anyone." - David Brown
+"SupaBank's innovative technology and user-friendly interface make managing my business finances a breeze. I highly recommend their services to anyone." - Ayilara Sodiq
 
-"I never worry about the security of my funds with SupaBank. Their advanced fraud detection system is top-notch and gives me great peace of mind." - Emily Davis
+"I never worry about the security of my funds with SupaBank. Their advanced fraud detection system is top-notch and gives me great peace of mind." - Precious Akintoye
 ```
 
 ## Operation-Section
